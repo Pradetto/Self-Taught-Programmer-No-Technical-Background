@@ -78,3 +78,5 @@ Feel free to disagree with everything I said but hopefully this got the gears go
 If you would like additional help or have additional questions feel free to reach out to me via LinekdIn https://www.linkedin.com/in/michael-pradetto/. I would be more than happy to help.
 
 If you made it this far! You got this! One day at a time :)
+
+Thanks for reading.
