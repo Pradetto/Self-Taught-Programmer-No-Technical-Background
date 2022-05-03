@@ -36,6 +36,9 @@ Just go to Youtube or Free Code Camp and take a quick course on Github/Git you w
 - Common Methods
 - File IO
 
+### Editor
+Install an editor to program on your own system. I chose vscode but you can choose anyone you like.
+
 ## Data Structures Algorithms
 
 ### Math
@@ -51,6 +54,14 @@ Just go to Youtube or Free Code Camp and take a quick course on Github/Git you w
 
 ### My Flashcard Deck
 Highly recommend for anyone who is studying for DSA interviews. This is why I was originally creating this post to share it with others.
+
+### Leetcode
+It is recommended to study leetcode by category. Tons of great resources to recommend what questions to study. I recommend a list developed by a FB egineer that covers every topic an interview should have. https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+
+This will help you identify areas you are weak in to study further. Cannot stress enough this is not supposed to be easy but with time you will pick up the patterns. Force yourself to try until you fail then if you can't get it after 20-30 minutes use the hints and then if that fails look up videos of the solution and follow the code step by step.
+
+### Debugger
+Underrated but recommend using your debugger in your editor to go step by step in your functions to understand the algorithms / data structures at a deeper level. I use vscode for my editor and the debugger works fine.
 
 ## Backend Framework
 
@@ -136,7 +147,7 @@ No this is not the same as a Data Scientist that will require more math and a di
 
 ## Final Comments
 
-Again this is your journey! There is no rush enjoy the progamming and don't create abnormal stress on yourself. It took me four months to figure this out. Enjoy learning something new instead of setting time contraints and trying to cram how fast you can learn everything. Trust me I did this for 4 months and the one thing I have learned is just take it one item at a time. And I know you have probably watched videos about people saying the only way to learn is by practicing and you are thinking ya I will. But no really that is the only way practice practice practice. It is really easy to get stuck in the tutorial loop.
+Again this is your journey! There is no rush enjoy the progamming and don't create abnormal stress on yourself. It took me four months to figure this out. Enjoy learning something new instead of setting time contraints and trying to cram how fast you can learn everything. Trust me I did this for 4 months and the one thing I have learned is just take it one item at a time. And I know you have probably watched videos about people saying the only way to learn is by practicing and you are thinking ya I will. But no really that is the only way practice practice practice. It is really easy to get stuck in the tutorial loop. Lastly, don't get in the trap of trying to find the best resource you will end up wasting a ton of time on this because everyone's opinion is different. Just pick one and stikc with it.
 
 Feel free to disagree with everything I said but hopefully this got the gears going.
 
