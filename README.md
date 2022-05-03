@@ -2,6 +2,8 @@
 
 Hi All! I wanted to share all my notes and path I have spent hours of reserach on to future aspiring programmers to hopefully help someone out with guidance and maybe save you a little time on your learning journey. Worse case this should be a good starting point document to outline what to expect on a journey but ultimately it is up to you on what you want to do and learn.
 
+My notes will be shared in this repository which will be good study material for anyone.
+
 This will be tailored towards Backend Engineering / Web Development.
 
 I know some courses I took were paid because it provided me with a little structure but please note all the paid courses can be substituted with Youtube and Free Code Camp. If this respository gets a lot of traction I will be more than happy to share links to some of these resources if people would be interest in it.
