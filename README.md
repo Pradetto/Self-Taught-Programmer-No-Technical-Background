@@ -9,7 +9,7 @@ This will be tailored towards Backend Engineering / Web Development.
 Please note Paid Courses Explanation and Substitutes: 
 I know some courses I took were paid because it provided me with a little structure but please note all the paid courses can be substituted with Youtube and Free Code Camp. If this respository gets a lot of traction I will be more than happy to share links to some of these resources if people would be interest in it. Definitely, use the paid resource syllabus's to guide your self-taught learning. I am in no way sponsored nor promoting any course this can all be done through free resources this was just my journey.
 
-If you do buy any Udemy courses make sure they are only sale for like $10 there is always a sale like every month. Do not pay full price it is overpriced.
+If you do buy any Udemy courses make sure they are on sale for like $10 there is always a sale like every month. Do not pay full price it is overpriced.
 
 ## Where I Started:
 
