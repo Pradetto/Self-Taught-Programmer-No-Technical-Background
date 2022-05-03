@@ -46,10 +46,21 @@ Highly recommend for anyone who is studying for DSA interviews. This is why I wa
 3) Start building out your projects. Start with easy stuff, blog posts, to-do apps and your personal website. If you need a personal website I can plan on posting the code for mine on Github.
 
 After you got the basics down, definitely compelte the https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website
-. Great guided tutorial to build out all your projects.
+. Great guided tutorial that covers nearly everything you would need to learn to put in your projects.
+
+### Bootstrap
+1) Since I opted to learn Python over Javascript which is used in frontend web development and I am not pursuing a Full-Stack role. I use a ton of Bootstrap to develop a nice UI on my projects. Definitely learn how to incorporate it in your projects it will save you a ton of time and not confuse you with trying to learn another language just yet.
 
 ## SQL
 
 ### Postgres
+
+## Another Language or Possibly Pivot Career Paths
+
+### Full-Stack Interests or Frontend?
+If you have completed all above and decided backend isn't for you and you have an interest for Full-Stack or Frontend. I would recommend learning Javascript through the Odin Project heard tons of great things about it. Don't think your time was wasted because it wasn't you can still use Django as your backend. Right now if you learn JS I would also recommend React as the front-end so you can pair Django and React. Eventually you probably will pick up Nodejs and MongoDB but just a place to start.
+
+### Data Engineering
+No this is not the same as a Data Scientist that will require more math and a different skill set. Data Engineering is the bridge between Web Development and Data Science.
 
 
