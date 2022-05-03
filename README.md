@@ -20,6 +20,20 @@ But, if you know what area you want to enter I would select a relevant language.
 ### Github/Git/Command Line
 Just go to Youtube or Free Code Camp and take a quick course on Github/Git you will be using this a lot to share your projects online. When it is applicable definitely practice using all three it helps a ton!
 
+### Programming Basics
+-- Basic --
+- Variables
+- Conditions
+- Chained Conditionals
+- Operators
+- Control Flow (If/Else)
+- Loops and iterables
+- Basic Data Structure
+- Functions
+- Mutable vs. Immutable
+- Common Methods
+- File IO
+
 ## Data Structures Algorithms
 
 ### Math
@@ -38,7 +52,7 @@ Highly recommend for anyone who is studying for DSA interviews. This is why I wa
 ## Backend Framework
 
 ### HTML/CSS
-1) if you have the fundamentals of programming taking the FCC 12 hours HTML/CSS course will give you everything you need to start developing your own apps and projects. Here is the link:
+If you have the fundamentals of programming taking the FCC 12 hours HTML/CSS course will give you everything you need to start developing your own apps and projects. Here is the link:
 
 ### Django
 1) After some reserach it came down to Django vs Flask. I started with Flask because it was easier but then I realized if you took the time to learn Django the whole framework would force you to have a deeper understanding of everything that goes into Web Development where Flask you would have to choose to add it in.
@@ -52,6 +66,12 @@ After you got the basics down, definitely compelte the https://developer.mozilla
 1) Since I opted to learn Python over Javascript which is used in frontend web development and I am not pursuing a Full-Stack role. I use a ton of Bootstrap to develop a nice UI on my projects. Definitely learn how to incorporate it in your projects it will save you a ton of time and not confuse you with trying to learn another language just yet.
 
 ### APIs
+A lot of job descriptions nowadays would like for candidates to have knowledge of APIs. I opted for the Django Rest Framework. You can learn about them on FCC / Youtube.
+
+### Deployment
+
+### Testing
+
 
 ## SQL
 
@@ -59,6 +79,39 @@ After you got the basics down, definitely compelte the https://developer.mozilla
 
 ### Database Design
 
+
+## Further Python Programming Language Skills
+Now that you are getting pretty serious I would expand the horizon of your Python coding skills to intermediate and advance concepts.
+
+Here is a list of things to learn:
+
+-- Intermediate --
+- Comprehensiona
+- Lambda
+- Collections Module
+- Map and Filter
+- *args and **kwargs
+- Inheritance
+- Advanced Class
+- Behaviour
+- PIP
+- Environments
+- Module Creation
+Async IO
+
+-- Advanced --
+- Decorators
+- Genrerators
+- Context Managers
+- Metaclass
+- Concurrency
+- Parallelism
+- Testing
+- Packages
+- Cython
+
+## Apply to Jobs
+After compelting all the above this should be enough to make you employable. Just apply away as soon as you ahve your portfolio, resume and projects in order.
 
 ## Another Language or Possibly Pivot Career Paths
 
