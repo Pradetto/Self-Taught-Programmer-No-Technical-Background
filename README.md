@@ -86,7 +86,7 @@ A lot of job descriptions nowadays would like for candidates to have knowledge o
 Now that you have built some of your projects practice deploying them this is a whole new skillset and might require you to rework some of your projects. I used Heroku because it was free and learned it on Youtube.
 
 ### Testing
-asdf
+Here is a good beginner article to introduce testing. https://www.freecodecamp.org/news/software-testing-for-beginners/ . This alone is not enough but you have to do your own research on what testing you want to learn about. This article should help guide you in the right direction.
 
 ### Software Design/Fundamentals
 If you took the above Django course on FCC this touched on some of the topics. But here is an additional resource. (ADD LINK)
