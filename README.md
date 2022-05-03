@@ -69,3 +69,12 @@ If you have completed all above and decided backend isn't for you and you have a
 No this is not the same as a Data Scientist that will require more math and a different skill set. Data Engineering is the bridge between Web Development and Data Science. Well now that you know a little bit about APIs and Web Develpment although this doesn't directly correlate to Data Engineering it isn't bad to know. But you do know python. If you want to be more engaged in data engineering. Definitely master SQL, learn some more Python Modules like pandas, numpy, matplotlib.. Probabbly pick up Hadoop and Spark to start your journey out in Data engineering. 
 
 
+## Final Comments
+
+Again this is your journey! There is no rush enjoy the progamming and don't create abnormal stress on yourself. It took me four months to figure this out. Enjoy learning something new instead of setting time contraints and trying to cram how fast you can learn everything. Trust me I did this for 4 months and the one thing I have learned is just take it one item at a time.
+
+Feel free to disagree with everything I said but hopefully this got the gears going.
+
+If you would like additional help or have additional questions feel free to reach out to me via LinekdIn https://www.linkedin.com/in/michael-pradetto/. I would be more than happy to help.
+
+If you made it this far! You got this! One day at a time :)
