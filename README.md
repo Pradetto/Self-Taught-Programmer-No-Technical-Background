@@ -70,19 +70,28 @@ Since I opted to learn Python over Javascript which is used in frontend web deve
 A lot of job descriptions nowadays would like for candidates to have knowledge of APIs. I opted for the Django Rest Framework. You can learn about them on FCC / Youtube.
 
 ### Deployment
+Now that you have built some of your projects practice deploying them this is a whole new skillset and might require you to rework some of your projects. I used Heroku because it was free and learned it on Youtube.
 
 ### Testing
+asdf
 
+### Software Design
+asdf
 
 ## SQL
 
 ### Postgres
+I chose Postgres because it is a popular and what my course was taught in. I took a Udemy course to learn the Postgres SQL. I recommend it again this is paid but can be learned on Youtube or FCC. It is quite easy to pick up SQL if all above has been completed. 
+
+https://www.udemy.com/course/the-complete-sql-bootcamp/
 
 ### Database Design
-
+FCC has a couple good courses on Database Design. 25 hours of fun. This should be easy to learn if all above has been completed.
+1) Part I of course: https://www.youtube.com/watch?v=4cWkVbC2bNE 
+2) Part II of course: https://www.youtube.com/watch?v=lxEdaElkQhQ
 
 ## Further Python Programming Language Skills
-Now that you are getting pretty serious I would expand the horizon of your Python coding skills to intermediate and advance concepts.
+Now that you are getting pretty serious I would expand the horizon of your Python coding skills to intermediate and advance concepts. I bought a book called Fluent Python definitely has some overkill content but highly recommend to use a resource and good referecne to some of the following topics.
 
 Here is a list of things to learn:
 
@@ -125,7 +134,7 @@ No this is not the same as a Data Scientist that will require more math and a di
 
 ## Final Comments
 
-Again this is your journey! There is no rush enjoy the progamming and don't create abnormal stress on yourself. It took me four months to figure this out. Enjoy learning something new instead of setting time contraints and trying to cram how fast you can learn everything. Trust me I did this for 4 months and the one thing I have learned is just take it one item at a time.
+Again this is your journey! There is no rush enjoy the progamming and don't create abnormal stress on yourself. It took me four months to figure this out. Enjoy learning something new instead of setting time contraints and trying to cram how fast you can learn everything. Trust me I did this for 4 months and the one thing I have learned is just take it one item at a time. And I know you have probably watched videos about people saying the only way to learn is by practicing and you are thinking ya I will. But no really that is the only way practice practice practice. It is really easy to get stuck in the tutorial loop.
 
 Feel free to disagree with everything I said but hopefully this got the gears going.
 
