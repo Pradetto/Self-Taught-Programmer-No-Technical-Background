@@ -1,6 +1,6 @@
 # Self-Taught-Programmer-No-Technical-Background
 
-Hi All! I wanted to share all my notes and path I have spent hours of reserach on to future aspiring self-taught programmers to hopefully help someone out with guidance and maybe save you a little time on your learning journey. Worse case this should be a good starting point document to outline what to expect on a journey but ultimately it is up to you to decide what you want to do and learn.
+Hi All! I wanted to share all my notes and path I have spent hours of research on to future aspiring self-taught programmers to hopefully help someone out with guidance and maybe save you a little time on your learning journey. Worse case this should be a good starting point document to outline what to expect on a journey but ultimately it is up to you to decide what you want to do and learn.
 
 My notes will be shared in this repository, which will be good study material for anyone.
 
