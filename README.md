@@ -45,6 +45,7 @@ Just go to Youtube or Free Code Camp and take a quick course on Github/Git you w
 3) Used tons and tons of youtube to also learn the concepts. Neetcode has great leetcode videos
 4) Started to grind out Cracking the Coding Interview and Leetcode probelsm.
 - I know it seems like overkill but I wanted to make sure I had a really strong foundation before moving on to other topics.
+- Just know if you are like me this was really hard to learn and I felt like quitting multiple times but I stuck with it and it was totally worth it. Just know if you are in a rut or stuck try changing how you are learning the Data Strucutre or Algoirthm i.e. Books vs Videos vs Youtube vs Courses Trail and Error and you will get it I promise.
 
 ### My Flashcard Deck
 Highly recommend for anyone who is studying for DSA interviews. This is why I was originally creating this post to share it with others.
