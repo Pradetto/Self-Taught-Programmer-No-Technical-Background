@@ -1,6 +1,6 @@
 # Self-Taught-Programmer-No-Technical-Background
 
-Hi All! I wanted to share all my notes and path I have spent hours of reserach on to future aspiring programmers to hopefully help someone out with guidance and maybe save you a little time on your learning journey. Worse case a good reference to hopefully let you know where to start out.
+Hi All! I wanted to share all my notes and path I have spent hours of reserach on to future aspiring programmers to hopefully help someone out with guidance and maybe save you a little time on your learning journey. Worse case this should be a good starting point document to outline what to expect on a journey but ultimately it is up to you on what you want to do and learn.
 
 This will be tailored towards Backend Engineering / Web Development.
 
@@ -51,9 +51,14 @@ After you got the basics down, definitely compelte the https://developer.mozilla
 ### Bootstrap
 1) Since I opted to learn Python over Javascript which is used in frontend web development and I am not pursuing a Full-Stack role. I use a ton of Bootstrap to develop a nice UI on my projects. Definitely learn how to incorporate it in your projects it will save you a ton of time and not confuse you with trying to learn another language just yet.
 
+### APIs
+
 ## SQL
 
 ### Postgres
+
+### Database Design
+
 
 ## Another Language or Possibly Pivot Career Paths
 
@@ -61,6 +66,6 @@ After you got the basics down, definitely compelte the https://developer.mozilla
 If you have completed all above and decided backend isn't for you and you have an interest for Full-Stack or Frontend. I would recommend learning Javascript through the Odin Project heard tons of great things about it. Don't think your time was wasted because it wasn't you can still use Django as your backend. Right now if you learn JS I would also recommend React as the front-end so you can pair Django and React. Eventually you probably will pick up Nodejs and MongoDB but just a place to start.
 
 ### Data Engineering
-No this is not the same as a Data Scientist that will require more math and a different skill set. Data Engineering is the bridge between Web Development and Data Science.
+No this is not the same as a Data Scientist that will require more math and a different skill set. Data Engineering is the bridge between Web Development and Data Science. Well now that you know a little bit about APIs and Web Develpment although this doesn't directly correlate to Data Engineering it isn't bad to know. But you do know python. If you want to be more engaged in data engineering. Definitely master SQL, learn some more Python Modules like pandas, numpy, matplotlib.. Probabbly pick up Hadoop and Spark to start your journey out in Data engineering. 
 
 
