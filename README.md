@@ -64,7 +64,7 @@ After you got the basics down, definitely compelte the https://developer.mozilla
 . Great guided tutorial that covers nearly everything you would need to learn to put in your projects.
 
 ### Bootstrap
-1) Since I opted to learn Python over Javascript which is used in frontend web development and I am not pursuing a Full-Stack role. I use a ton of Bootstrap to develop a nice UI on my projects. Definitely learn how to incorporate it in your projects it will save you a ton of time and not confuse you with trying to learn another language just yet.
+Since I opted to learn Python over Javascript which is used in frontend web development and I am not pursuing a Full-Stack role. I use a ton of Bootstrap to develop a nice UI on my projects. Definitely learn how to incorporate it in your projects it will save you a ton of time and not confuse you with trying to learn another language just yet.
 
 ### APIs
 A lot of job descriptions nowadays would like for candidates to have knowledge of APIs. I opted for the Django Rest Framework. You can learn about them on FCC / Youtube.
