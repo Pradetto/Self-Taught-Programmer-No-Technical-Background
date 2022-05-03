@@ -53,7 +53,7 @@ Install an editor to program on your own system. I chose vscode but you can choo
 - Just know if you are like me this was really hard to learn and I felt like quitting multiple times but I stuck with it and it was totally worth it. Just know if you are in a rut or stuck try changing how you are learning the Data Strucutre or Algoirthm i.e. Books vs Videos vs Youtube vs Courses Trail and Error and you will get it I promise.
 
 ### My Flashcard Deck
-Highly recommend for anyone who is studying for DSA interviews. This is why I was originally creating this post to share it with others.
+Highly recommend for anyone who is studying for DSA interviews. This is why I was originally creating this post to share it with others. See attached file in repository.
 
 ### Leetcode
 It is recommended to study leetcode by category. Tons of great resources to recommend what questions to study. I recommend a list developed by a FB egineer that covers every topic an interview should have. https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
