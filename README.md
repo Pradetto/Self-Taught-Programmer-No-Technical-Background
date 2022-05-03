@@ -57,8 +57,8 @@ If you have the fundamentals of programming taking the FCC 12 hours HTML/CSS cou
 
 ### Django
 1) After some reserach it came down to Django vs Flask. I started with Flask because it was easier but then I realized if you took the time to learn Django the whole framework would force you to have a deeper understanding of everything that goes into Web Development where Flask you would have to choose to add it in.
-2) I took a FCC to learn Django it also taught some Software Design Principles recommend it. Then also paired it with a Udemy course.
-3) Start building out your projects. Start with easy stuff, blog posts, to-do apps and your personal website. If you need a personal website I can plan on posting the code for mine on Github.
+2) I took a FCC to learn Django it also taught some Software Design Principles recommend it. Then also paired it with a Udemy course. https://www.youtube.com/watch?v=o0XbHvKxw7Y
+4) Start building out your projects. Start with easy stuff, blog posts, to-do apps and your personal website. If you need a personal website I can plan on posting the code for mine on Github.
 
 After you got the basics down, definitely compelte the https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website
 . Great guided tutorial that covers nearly everything you would need to learn to put in your projects.
@@ -75,8 +75,8 @@ Now that you have built some of your projects practice deploying them this is a 
 ### Testing
 asdf
 
-### Software Design
-asdf
+### Software Design/Fundamentals
+If you took the above Django course on FCC this touched on some of the topics. But here is an additional resource. (ADD LINK)
 
 ## SQL
 
