@@ -6,7 +6,7 @@ My notes will be shared in this repository, which will be good study material fo
 
 This will be tailored towards Backend Engineering / Web Development.
 
-I know some courses I took were paid because it provided me with a little structure but please note all the paid courses can be substituted with Youtube and Free Code Camp. If this respository gets a lot of traction I will be more than happy to share links to some of these resources if people would be interest in it. Definitely, use the paid resource syllabus's to guide your self-taught learning.
+I know some courses I took were paid because it provided me with a little structure but please note all the paid courses can be substituted with Youtube and Free Code Camp. If this respository gets a lot of traction I will be more than happy to share links to some of these resources if people would be interest in it. Definitely, use the paid resource syllabus's to guide your self-taught learning. I am in no way sponsored nor promoting any course this can all be done through free resources this was just my journey.
 
 ## Where I Started:
 
