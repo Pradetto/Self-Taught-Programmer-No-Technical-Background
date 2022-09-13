@@ -1,3 +1,8 @@
+#UPDATED PLEASE FIND ALL STUDY MATERIAL AT THIS LINK
+[New Study Material] (https://github.com/Pradetto/DSA-Cheat-Sheets)
+Flashcards, Common Templates and Leetcode Problems
+
+
 # Self-Taught-Programmer-No-Technical-Background
 
 Hi All! I wanted to share all my notes and path I have spent hours of research on to future aspiring self-taught programmers to hopefully help someone out with guidance and maybe save you a little time on your learning journey. Worse case this should be a good starting point document to outline what to expect on a journey but ultimately it is up to you to decide what you want to do and learn.
